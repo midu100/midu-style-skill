@@ -1,6 +1,6 @@
 ---
 name: midu-style
-description: Build React.js, Next.js, and Node/Express/MongoDB code in midu100's (Kazi Mridul / Sheikh Muhummad Jadid's) exact personal style and file structure. Use whenever creating or scaffolding a frontend (React+Vite or Next.js App Router) or a backend (Express + Mongoose), writing components, routing, data fetching, props, Mongoose schemas, Express routes/controllers/middleware, image/file uploads with multer + Cloudinary, JWT cookie auth, Redux Toolkit / RTK Query data layers, socket.io real-time features, or wiring a full-stack feature.
+description: Build React.js, Next.js, and Node/Express/MongoDB code in midu100's (Kazi Mridul's) exact personal style and file structure. Use whenever creating or scaffolding a frontend (React+Vite or Next.js App Router) or a backend (Express + Mongoose), writing components, routing, data fetching, props, Mongoose schemas, Express routes/controllers/middleware, image/file uploads with multer + Cloudinary, JWT cookie auth, Redux Toolkit / RTK Query data layers, socket.io real-time features, or wiring a full-stack feature.
 ---
 
 # midu-style — Build in the user's own coding style

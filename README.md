@@ -1,7 +1,7 @@
 # midu-style — Claude Code Skill
 
 A personal Claude Code skill that makes Claude write **React.js, Next.js, and Node/Express/MongoDB**
-code in **midu100 (Kazi Mridul / Sheikh Muhummad Jadid)'s** exact style, file structure, and
+code in **midu100 (Kazi Mridul)'s** exact style, file structure, and
 conventions — extracted from real repositories: `Air_Bnb`, `E-commece-FullStack`,
 `Kazir_Haat_Client` / `Kazir_Haat_server`, `ChatWebApplication`, `Ecommerce-Next.js-`.
 
